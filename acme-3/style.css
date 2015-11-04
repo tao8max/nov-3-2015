@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+}
+
+@media (min-width: 1000px) {
+
+	#bod {
+		width: 900px;
+		margin: 0px auto;
+		
+		height: auto;
+		
+	}
+
+}
+
+
+@media (max-width: 480px){
+	#bod {
+		width: 470px;
+		margin: 0px auto;
+		height: auto;
+	}
+}
+
+#headercustom{
+	font-size: 25px;
+	height: 50px;
+	margin: 0px auto;
+	margin-bottom: 10px;
+}
+
+
+h1 {
+	color: #000000;
+	font: Georgia;
+	text-align: center;
+}
+
+#main{
+	width: 99%;
+	height: auto;
+	text-align: center;
+	margin: 0 auto;
+	background-color: white;
+	float: left; 
+}
