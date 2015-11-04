@@ -20,7 +20,7 @@
 
 	#nav ul {
 		list-style-type: none;
-		margin-left: -45px;
+		float: center;
 
 	}
 
@@ -29,7 +29,8 @@
 		margin-top: 40px;
 		font-size: 30px;
 		color: gray;
-		margin-right:15px;
+		margin-right:17px;
+		margin-left:17px;
 	}
 
 	.anvil {
